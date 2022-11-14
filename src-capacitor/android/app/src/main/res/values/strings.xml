@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HCI_Notizen</string>
+    <string name="title_activity_main">HCI_Notizen</string>
+    <string name="package_name">org.hci.notizen.app</string>
+    <string name="custom_url_scheme">org.hci.notizen.app</string>
+</resources>
